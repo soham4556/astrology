@@ -147,7 +147,7 @@ npm run start
 
 1. SSH into your VPS.
 2. Install Node.js 20+ and Nginx.
-3. Upload project folder to VPS (for example `/var/www/pavitra-jyotish`).
+3. Upload project folder to VPS (for example `/var/www/Jyotish_Web`).
 4. Install dependencies:
 
 ```bash

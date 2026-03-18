@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="hi">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description"
+    content="Pavitra Jyotish astrology platform with horoscope, kundali, panchang, and kundali matching services." />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Pavitra Jyotish" />
+  <meta property="og:description"
+    content="Generate horoscope, kundali, panchang, and compatibility reports through a secure astrology platform." />
+  <meta property="og:image" content="/og-image.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Tiro+Devanagari+Sanskrit&family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=Noto+Sans+Devanagari:wght@300;400;600;700&display=swap"
+    rel="stylesheet" />
+  <title>Pavitra Jyotish</title>
+</head>
+
+<body>
+  <div id="google_translate_element" aria-hidden="true"></div>
+  <div id="root"></div>
+  <script>
+    (function () {
+      var supportedLanguages = "hi,mr,en,gu,ta,bn,te";
+
+      try {
+        if (!localStorage.getItem("googtrans")) {
+          localStorage.setItem("googtrans", "/auto/hi");
+        }
+      } catch (error) {
+        // Ignore local storage failures.
+      }
+
+      if (document.cookie.indexOf("googtrans=") === -1) {
+        document.cookie = "googtrans=/auto/hi; path=/; max-age=31536000";
+      }
+
+      window.googleTranslateElementInit = function () {
+        if (!window.google || !window.google.translate) {
+          return;
+        }
+
+        new window.google.translate.TranslateElement(
+          {
+            pageLanguage: "en",
+            includedLanguages: supportedLanguages,
+            autoDisplay: false,
+          },
+          "google_translate_element",
+        );
+      };
+    })();
+  </script>
+  <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+
+</html>

@@ -3,15 +3,15 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "dest": "/api/index.js"
+      "destination": "/api/index.js"
     },
     {
       "source": "/assets/(.*)",
-      "dest": "/assets/$1"
+      "destination": "/assets/$1"
     },
     {
       "source": "/(.*)",
-      "dest": "/index.html"
+      "destination": "/index.html"
     }
   ],
   "builds": [

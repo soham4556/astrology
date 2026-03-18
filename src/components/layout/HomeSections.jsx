@@ -73,7 +73,7 @@ const testimonials = [
   },
   {
     stars: "★★★★★",
-    text: '"The horoscope reading was incredibly accurate. The astrologer predicted events that came true. I recommend Pavitra Jyotish to everyone!"',
+    text: '"The horoscope reading was incredibly accurate. The astrologer predicted events that came true. I recommend jyotish web to everyone!"',
     langTag: "English",
     avatar: "🌟",
     name: "Ananya Krishnan",
@@ -437,7 +437,7 @@ export default function HomeSections() {
               <span className="contact-icon">📞</span>
               <div>
                 <div className="contact-detail-hi">
-                  +91 95821 92381 | +91 96677 10281
+                  XXXXX XXXXX
                 </div>
                 <div className="contact-detail-en">
                   सोम–शनि: सुबह 10:00 से रात 8:00
@@ -448,7 +448,7 @@ export default function HomeSections() {
               <span className="contact-icon">✉</span>
               <div>
                 <div className="contact-detail-hi">
-                  hello@pavitrajyotish.com
+                  abc@gmail.com
                 </div>
                 <div className="contact-detail-en">
                   24 घंटे में उत्तर मिलेगा

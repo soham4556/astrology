@@ -51,8 +51,8 @@ export default function SignupPage() {
   return (
     <section className="auth-section">
       <SeoMeta
-        title="Signup | Pavitra Jyotish"
-        description="Create your Pavitra Jyotish account to save horoscope, kundali, panchang, and match reports."
+        title="Signup | jyotish web"
+        description="Create your jyotish web account to save horoscope, kundali, panchang, and match reports."
         path="/signup"
       />
 

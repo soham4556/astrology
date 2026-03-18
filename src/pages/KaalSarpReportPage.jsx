@@ -733,7 +733,7 @@ export default function KaalSarpReportPage() {
         title={
           isHindi
             ? "कालसर्प रिपोर्ट | पवित्र ज्योतिष"
-            : "Kaal Sarp Report | Pavitra Jyotish"
+            : "Kaal Sarp Report | jyotish web"
         }
         description="Generate Kaal Sarp report with direct API data or planets-based fallback analysis."
         path="/remedies/kaalsarp"

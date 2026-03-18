@@ -270,7 +270,7 @@ export default function HoroscopePage() {
       }}
     >
       <SeoMeta
-        title="Horoscope Chart Generator | Pavitra Jyotish"
+        title="Horoscope Chart Generator | jyotish web"
         description="Generate horoscope chart insights using AstrologyAPI integration."
         path="/horoscope"
       />

@@ -229,7 +229,7 @@ export default function DashaPage() {
   return (
     <div className="dasha-page-container">
       <SeoMeta
-        title="Vimshottari Dasha | Pavitra Jyotish"
+        title="Vimshottari Dasha | jyotish web"
         description="Detailed Vimshottari Dasha analysis with planetary periods."
         path="/kundali/dasha"
       />

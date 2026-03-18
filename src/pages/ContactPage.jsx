@@ -105,21 +105,21 @@ const ContactPage = () => {
         <div style={cardStyle} className="contact-card">
           <div style={{ color: '#d4af37', marginBottom: '20px' }}><Phone size={40} /></div>
           <h3 style={{ fontSize: '1.5rem', marginBottom: '10px' }}>{isHindi ? 'कॉल करें' : 'Call Us'}</h3>
-          <p style={{ color: '#b0b0cc' }}>+91 95821 92381</p>
+          <p style={{ color: '#b0b0cc' }}>XXXXX XXXXX</p>
           <p style={{ color: '#888', fontSize: '0.9rem' }}>{isHindi ? 'सोम - शनि, 10am - 8pm' : 'Mon - Sat, 10am - 8pm'}</p>
         </div>
 
         <div style={cardStyle} className="contact-card">
           <div style={{ color: '#d4af37', marginBottom: '20px' }}><Mail size={40} /></div>
           <h3 style={{ fontSize: '1.5rem', marginBottom: '10px' }}>{isHindi ? 'ईमेल' : 'Email Us'}</h3>
-          <p style={{ color: '#b0b0cc' }}>hello@pavitrajyotish.com</p>
+          <p style={{ color: '#b0b0cc' }}>abc@gmail.com</p>
           <p style={{ color: '#888', fontSize: '0.9rem' }}>{isHindi ? '24 घंटे में उत्तर' : 'Response within 24 hours'}</p>
         </div>
 
         <div style={cardStyle} className="contact-card">
           <div style={{ color: '#d4af37', marginBottom: '20px' }}><MessageCircle size={40} /></div>
           <h3 style={{ fontSize: '1.5rem', marginBottom: '10px' }}>{isHindi ? 'व्हाट्सएप' : 'WhatsApp'}</h3>
-          <p style={{ color: '#b0b0cc' }}>+91 95821 92381</p>
+          <p style={{ color: '#b0b0cc' }}>XXXXX XXXXX</p>
           <p style={{ color: '#888', fontSize: '0.9rem' }}>{isHindi ? 'त्वरित सहायता' : 'Instant Support'}</p>
         </div>
       </div>

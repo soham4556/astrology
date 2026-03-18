@@ -485,7 +485,7 @@ export default function ChartPage() {
       }}
     >
       <SeoMeta
-        title="Predictive Charts | Pavitra Jyotish"
+        title="Predictive Charts | jyotish web"
         description="Generate Vedic astrology charts in North Indian or South Indian styles."
         path="/chart"
       />

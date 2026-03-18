@@ -322,7 +322,7 @@ export default function BirthChartPage() {
   return (
     <div className="birth-chart-container">
       <SeoMeta
-        title="Birth Chart | Pavitra Jyotish"
+        title="Birth Chart | jyotish web"
         description="Generate your Janma Kundali with precise Hindi labels and North Indian layout."
         path="/kundali/birth-chart"
       />

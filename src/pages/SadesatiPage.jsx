@@ -251,7 +251,7 @@ export default function SadesatiPage() {
       <SeoMeta
         title={pickText(
           language,
-          "Sade Sati Status | Pavitra Jyotish",
+          "Sade Sati Status | jyotish web",
           "साढ़ेसाती स्थिति | पवित्र ज्योतिष",
           "साडेसाती स्थिती | पवित्र ज्योतिष",
         )}

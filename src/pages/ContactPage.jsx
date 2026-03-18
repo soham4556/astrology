@@ -142,7 +142,7 @@ const ContactPage = () => {
              </div>
              <div style={{ display: 'flex', alignItems: 'center', gap: '12px', color: '#b0b0cc' }}>
                 <Globe size={20} color="#d4af37" />
-                <span>www.pavitrajyotish.com</span>
+                <span>www.jyotishweb.com</span>
              </div>
           </div>
         </div>

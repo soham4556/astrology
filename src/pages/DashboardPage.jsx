@@ -87,7 +87,7 @@ export default function DashboardPage() {
   return (
     <section className="page-shell">
       <SeoMeta
-        title="Dashboard | Pavitra Jyotish"
+        title="Dashboard | jyotish web"
         description="Manage your astrology activity, generate reports, and review recent horoscope, kundali, panchang, and match outputs."
         path="/dashboard"
       />

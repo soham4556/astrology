@@ -183,7 +183,7 @@ export default function NumerologyPage() {
   return (
     <section className="page-shell">
       <SeoMeta
-        title="Numerology Table | Pavitra Jyotish"
+        title="Numerology Table | jyotish web"
         description="Generate a complete numerology table using AstrologyAPI with lucky numbers, colors, mantra, and remedies."
         path="/numerology"
       />

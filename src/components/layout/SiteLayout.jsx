@@ -189,7 +189,7 @@ function Footer({ language }) {
     <footer>
       <div className="footer-grid">
         <div className="footer-brand">
-          <div className="foot-logo">🕉 पवित्र ज्योतिष</div>
+          <div className="foot-logo">🕉 jyotish web</div>
           <p className="footer-desc">{footerDescription}</p>
           <div className="social-links">
             <a className="social-link" href="#" aria-label="Facebook">
@@ -245,7 +245,7 @@ function Footer({ language }) {
       </div>
 
       <div className="footer-bottom">
-        © 2000–2026 <span>पवित्र ज्योतिष</span> |{" "}
+        © 2000–2026 <span>jyotish web</span> |{" "}
         {isHindi ? "सभी अधिकार सुरक्षित" : "सर्व हक्क राखीव"} |{" "}
         {isHindi
           ? "तारों के लिए प्रेम से निर्मित"
@@ -298,14 +298,14 @@ export default function SiteLayout() {
           ))}
         </div>
         <div className="contact-bar">
-          <a href="tel:+919582192381" className="contact-item">
-            <Phone size={14} /> +91 95821 92381
+          <a href="tel:XXXXXXXXXXX" className="contact-item">
+            <Phone size={14} /> XXXXX XXXXX
           </a>
           <a
-            href="mailto:hello@pavitrajyotish.com"
+            href="mailto:abc@gmail.com"
             className="contact-item hide-mobile"
           >
-            <Mail size={14} /> hello@pavitrajyotish.com
+            <Mail size={14} /> abc@gmail.com
           </a>
         </div>
       </div>
@@ -315,9 +315,9 @@ export default function SiteLayout() {
           <Link to="/" className="logo-wrap">
             <div className="logo-emblem">🕉</div>
             <div className="logo-text">
-              <div className="name-devanagari">पवित्र ज्योतिष</div>
+              <div className="name-devanagari">jyotish web</div>
               <div className="name-english">
-                {isHindi ? "वैदिक ज्योतिष सेवा" : "PAVITRA JYOTISH"}
+                {isHindi ? "वैदिक ज्योतिष सेवा" : "JYOTISH WEB"}
               </div>
             </div>
           </Link>
@@ -382,7 +382,7 @@ export default function SiteLayout() {
 
       <a
         className="whatsapp-float"
-        href="https://wa.me/919582192381"
+        href="https://wa.me/XXXXXXXXXXX"
         title={isHindi ? "व्हाट्सऐप" : "WhatsApp"}
         aria-label={isHindi ? "व्हाट्सऐप संपर्क" : "WhatsApp contact"}
       >

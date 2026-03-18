@@ -42,8 +42,8 @@ export default function LoginPage() {
   return (
     <section className="auth-section">
       <SeoMeta
-        title="Login | Pavitra Jyotish"
-        description="Login to your Pavitra Jyotish account to access astrology dashboard and reports."
+        title="Login | jyotish web"
+        description="Login to your jyotish web account to access astrology dashboard and reports."
         path="/login"
       />
 

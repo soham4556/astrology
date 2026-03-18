@@ -161,7 +161,7 @@ export default function KundaliPage() {
   return (
     <section className="page-shell">
       <SeoMeta
-        title="Kundali Generator | Pavitra Jyotish"
+        title="Kundali Generator | jyotish web"
         description="Generate your birth chart and kundali report with precise Vedic astrology inputs."
         path="/kundali"
       />

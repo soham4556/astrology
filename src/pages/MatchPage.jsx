@@ -249,7 +249,7 @@ export default function MatchPage() {
   return (
     <section className="page-shell">
       <SeoMeta
-        title="Kundali Matching | Pavitra Jyotish"
+        title="Kundali Matching | jyotish web"
         description="Check kundali compatibility with astrological matching powered by AstrologyAPI."
         path="/match"
       />

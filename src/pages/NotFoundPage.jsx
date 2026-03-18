@@ -9,7 +9,7 @@ export default function NotFoundPage() {
   return (
     <section className="page-shell">
       <SeoMeta
-        title="Page Not Found | Pavitra Jyotish"
+        title="Page Not Found | jyotish web"
         description="The requested page could not be found."
         path="/404"
       />

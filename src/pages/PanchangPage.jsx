@@ -167,7 +167,7 @@ export default function PanchangPage() {
   return (
     <section className="page-shell">
       <SeoMeta
-        title="Basic Panchang | Pavitra Jyotish"
+        title="Basic Panchang | jyotish web"
         description="Generate accurate basic panchang details with day, tithi, nakshatra, yog, karan, sunrise and sunset."
         path="/panchang"
       />

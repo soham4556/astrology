@@ -293,7 +293,7 @@ export default function PlanetDetailsPage() {
   return (
     <div className="planet-details-container">
       <SeoMeta
-        title="Planet Details | Pavitra Jyotish"
+        title="Planet Details | jyotish web"
         description="Detailed planetary positions and KP sub-lords in Hindi."
         path="/kundali/planets"
       />

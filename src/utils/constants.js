@@ -106,7 +106,7 @@ export const TRANSLATIONS = {
     'form-btn': '📨 परामर्श लें',
   },
   en: {
-    'logo-name': 'Pavitra Jyotish',
+    'logo-name': 'jyotish web',
     'logo-tagline': 'Your Path to Clarity · Since 2000',
     'header-hours': 'Mon–Sat: 10:00 AM – 8:00 PM',
     'hero-badge': "🌟 India's Most Trusted Astrology Service",
